@@ -1,3 +1,9 @@
+# Script: 1st Raw data
+# Description: This script processes Stroop experiment data.
+# Author: Anastasia Keidar
+# Date: 25.12.24
+
+
 # R course for beginners
 # Week 7
 # assignment by Anastasia Keidar, id 322044082
