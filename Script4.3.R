@@ -1,3 +1,8 @@
+# Script: Ploting
+# Description: This script calculates mean and sd for each condition and ploting it.
+# Author: Anastasia Keidar
+# Date: 25.12.24
+
 # R course for beginners
 # Week 7
 # assignment by Anastasia Keidar, id 322044082
